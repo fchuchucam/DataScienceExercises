@@ -1,0 +1,9 @@
+1.- CLONAR EL REPOSITORIO, LA DIRECCIÓN COPIAR DESDE LA PAGINA DE GIT.
+git clone https://***************************************
+
+2.- UBICARNOS SOBRE LA CARPETA DONDE SE CLONÓ EL REPOSITORIO Y CONFIGURAR LOS PARAMETROS PRINCIPALES.
+git config user.name fchuchucam
+git config user.email fchuchucam@hotmail.com
+
+3.- 
+
