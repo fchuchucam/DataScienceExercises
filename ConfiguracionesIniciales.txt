@@ -5,5 +5,12 @@ git clone https://***************************************
 git config user.name fchuchucam
 git config user.email fchuchucam@hotmail.com
 
-3.- ejemplo
+3.- AÑADIR LOS ARCHIVOS CAMBIADOS.
+git add .
+
+4.- GUARDAR LOS CAMBIOS.
+git commit -m "Comentario del commit que se hace"
+
+5.- CARGOS LOS ARCHIVOS CAMBIADOS O NUEVOS
+git push origin main(o master)
 
