@@ -14,3 +14,6 @@ git commit -m "Comentario del commit que se hace"
 5.- CARGOS LOS ARCHIVOS CAMBIADOS O NUEVOS
 git push origin main(o master)
 
+6.- PARA TRAERNOS UN CAMBIO EN ALGUN ARCHIVO O CARPETAS
+Git pull origin main
+
